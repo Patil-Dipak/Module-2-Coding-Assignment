@@ -1,6 +1,6 @@
 # Module-2-Coding-Assignment
 
-Coursera course: HTML, CSS, and Javascript for Web Developers
+Coursera course: HTML, CSS, and Javascript for Web Developers by Johns Hopkins University
 
 1) Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup
 
